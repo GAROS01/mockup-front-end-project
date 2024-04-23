@@ -105,3 +105,16 @@ footer{
     margin: auto;
     padding: 60px 180px;
 }
+
+
+/* Estilos adicionales para dispositivos móviles */
+@media only screen and (max-width: 600px) {
+    header {
+        flex-direction: column;
+        padding: 40px 20px;
+        align-items: center;
+    }
+    .titulo-calendario, .calendario, .div-boton, footer {
+        padding: 30px;
+    }
+}
