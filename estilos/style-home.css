@@ -26,6 +26,7 @@ header {
     order: 1;
     align-self: stretch;
     flex-grow: 0;
+    font-size: 19px;
 }
 
 .ubicacion {
@@ -42,7 +43,6 @@ header {
     align-items: center;
     padding: 0px;
 }
-
 .cita {
     display: flex;
     flex-direction: row;
