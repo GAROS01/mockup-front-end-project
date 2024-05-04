@@ -75,8 +75,8 @@ header {
 .uñas {
     display: flex;
     justify-content: space-around;
-    width: 155px;
-    height: 160px;
+    width: 15vw;
+    height: 16vw;
     border-radius: 2%;
     border: solid 9px #ffffff;
     box-shadow: rgb(0, 0, 0), 0px 0px 10px 0px;
